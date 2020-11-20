@@ -1,9 +1,6 @@
 # nubank_clone
 Clone do Aplicativo Nubank com suas funcionalidades e animações.
 
-# Github-Clone
-Clone do Github com direito a darkmode 😍
-
 ## Techs
 
 - [x] React Native
