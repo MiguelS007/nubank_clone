@@ -1,5 +1,5 @@
 # nubank_clone
-Clone do Aplicativo Nubank com suas funcionalidades e animações.
+Clone do Aplicativo Nubank com suas funcionalidades e animações
 
 ## Techs
 
